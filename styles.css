@@ -10,7 +10,7 @@ nav  a{ /* tous les liens a à l'intérieur de la balise nav */
     padding: 0 10px; /* marges intérieur */
     font-family: sans-serif; /* police d'écriture */
     font-size: 13px; /* taille du texte */
-    transition: .5s; /* temps de transition lors du hover : une demi seconde */
+    transition: 0.3s ease; /* temps de transition lors du hover : une demi seconde */
     }
     nav  a:hover{ /* tous liens lors du survol dans la balise nav */
     background: #f43c80; /* couleur de fond */
